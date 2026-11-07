@@ -9,7 +9,7 @@ MCA student at the Department of Computer Science, Punjabi University, Patiala. 
 
 ## My projects
 - **MoveMates**: a relocation companion Android app (my MCA final-year project)
-- **SubGuard**: a subscription tracker Android app
+- **[SubGuard](https://github.com/dsrolly/SubGuard-app)**: a subscription tracker Android app
 - **Voice2Civic**: a civic complaint Android app
 
 ## Currently learning
